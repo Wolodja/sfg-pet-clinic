@@ -38,7 +38,7 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:git@github.com:Wolodja/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/Wolodja/sfg-pet-clinic.git</developerConnection>
       <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 

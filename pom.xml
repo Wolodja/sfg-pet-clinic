@@ -39,6 +39,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:Wolodja/sfg-pet-clinic.git</developerConnection>
-    </scm>
+      <tag>sfg-pet-clinic-0.0.1-SNAPSHOOT</tag>
+  </scm>
 
 </project>
